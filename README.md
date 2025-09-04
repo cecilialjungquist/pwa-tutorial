@@ -79,4 +79,8 @@ A service worker is an event-driven worker registered against an origin and a pa
 
 To create assets, we use the pwa-assets-generator
 
- npx pwa-assets-generator --preset minimal-2023 public/logo-vertical.svg
+* npx pwa-assets-generator --preset minimal-2023 public/logo-vertical.svg
+
+Deployed to vercel through Vercel CLI 
+
+https://pwa-tutorial-fgl4muq5c-cecilialjungquists-projects.vercel.app 
