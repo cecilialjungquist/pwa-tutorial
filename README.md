@@ -84,3 +84,9 @@ To create assets, we use the pwa-assets-generator
 Deployed to vercel through Vercel CLI 
 
 https://pwa-tutorial-fgl4muq5c-cecilialjungquists-projects.vercel.app 
+
+
+## Deployment to vercel 
+
+vercel build
+vercel deploy --prebuilt tror jag?
